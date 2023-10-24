@@ -5,4 +5,4 @@
 1. In your VSCode terminal, run the following command: npm start
 2. After the software is installed, also in your VSCode terminal, run the following command: npm start
 
-
+# We will be referring to this project throughout the course as we learn!
