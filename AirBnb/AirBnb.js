@@ -15,4 +15,21 @@
 
 
 3. Which component needs access to every piece of data? Which component only needs access to the filtered data?
+
+
+
+
+
+
+
+4. What are three different key/value pairs that will be needed for each listing?
+
+
+
+
+
+
+
+
+5. What JavaScript could we write to filter the objects based on whether or not the listing has a pool?
  */
