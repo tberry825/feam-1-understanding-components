@@ -1,4 +1,4 @@
-/**
+
  Using the image of the Airbnb UI, answer the following questions:
  1. What are four main components you see on the page?
 
@@ -32,4 +32,3 @@
 
 
 5. What JavaScript could we write to filter the objects based on whether or not the listing has a pool?
- */
